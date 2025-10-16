@@ -4,3 +4,9 @@ you need to install tesseract on the server machine (only tried in windows so yo
 after setup you have to add the tesseract.exe to the environment variable 
 
 need flask, pytesseract py libraries as well
+
+
+this command searches for the installed tesseract lib in your OS 
+
+
+### pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
